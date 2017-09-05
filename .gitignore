@@ -1,0 +1,15 @@
+.*
+!.gitignore
+!.gitkeep
+*.iml
+*.log
+*.bak
+*.jar
+logs/*
+bin/
+target/
+apps/apps/
+
+*.tar.gz
+*.tgz
+*.zip
